@@ -1,7 +1,6 @@
 
 # Twitter Clone Android App
-
-This is a Twitter clone project built using Jetpack Compose and Kotlin with Firebase integration. It provides a basic implementation of the features found in the popular social media platform Twitter. Users can sign up, log in, post tweets, follow other users, and view a timeline of tweets from users they follow.
+This is a Twitter clone project built using Jetpack Compose and Kotlin with Firebase integration. It provides a basic implementation of the features found in the popular social media platform Twitter. Users can sign up, log in, post tweets, follow other users, search users, users can like and comment on post and view a timeline of tweets from users they follow.
 
 ![App Screenshot](https://github.com/Bhushanp091/TwitterClone/blob/master/twiiterScreenshots/Screenshot%202024-03-09%20001432.png?raw=true)
 ![App Screenshot](https://github.com/Bhushanp091/TwitterClone/blob/master/twiiterScreenshots/Screenshot%202024-03-09%20001401.png?raw=true)
